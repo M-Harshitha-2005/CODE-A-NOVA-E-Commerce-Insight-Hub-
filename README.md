@@ -63,7 +63,7 @@ The Story Insights page automatically generates business findings and recommenda
 ## Installation Guide
 #### Step 1: Clone the Repository
 Download the project from GitHub using the following command:
-git clone https://github.com/your-username/E-COMMERCE-INSIGHT-HUB.git
+git clone: https://github.com/M-Harshitha-2005/CODE-A-NOVA-E-Commerce-Insight-Hub-.git
 #### Step 2: Open the Project Folder
 Navigate to the project directory:
 cd E-COMMERCE-INSIGHT-HUB

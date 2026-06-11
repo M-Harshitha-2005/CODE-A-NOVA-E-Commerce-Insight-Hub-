@@ -88,21 +88,26 @@ visit: http://localhost:8501
 ## Application Screenshots:
 ### Home Dashboard
 <img width="1907" height="967" alt="image" src="https://github.com/user-attachments/assets/c359a335-4b2b-4258-826a-fa51250d34de" />
+
 ### Sales Analysis Dashboard
 <img width="1755" height="747" alt="image" src="https://github.com/user-attachments/assets/c8cc31b0-b25e-4c23-b4e0-d121402a8713" />
 <img width="1768" height="626" alt="image" src="https://github.com/user-attachments/assets/7415b689-5ba8-4484-b788-48778e8b2da9" />
 <img width="1812" height="702" alt="image" src="https://github.com/user-attachments/assets/307952a2-27e7-4c89-8997-484a1323631b" />
+
 ### Profit Analysis Dashboard
 <img width="1907" height="870" alt="image" src="https://github.com/user-attachments/assets/06917338-b79a-4de4-b196-c479b88abb5a" />
 <img width="1897" height="701" alt="image" src="https://github.com/user-attachments/assets/91f2e53c-abd9-4f50-944d-7fe638ed47d5" />
 <img width="1906" height="886" alt="image" src="https://github.com/user-attachments/assets/d59918bf-397b-4126-94c2-ff8721c0cda6" />
+
 ### Customer Analysis Dashboard
 <img width="1902" height="918" alt="image" src="https://github.com/user-attachments/assets/caa2ed40-7d0c-47f7-a57b-54a2ac9b46e4" />
 <img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/6a379d8d-9ec7-439d-89dd-803515d31322" />
 <img width="1775" height="637" alt="image" src="https://github.com/user-attachments/assets/1b77e0fc-96ad-4943-a557-094fcb0ceeb4" />
+
 ### Story Insights Dashboard
 <img width="1896" height="961" alt="image" src="https://github.com/user-attachments/assets/68ee162f-7e40-4642-acd0-f80153aaf68d" />
 <img width="1896" height="836" alt="image" src="https://github.com/user-attachments/assets/a8f95786-3294-458c-a17c-5c44908f1ad5" />
+
 ## Project Objectives:
 The primary objective of this project is to analyze retail sales data and extract meaningful business insights through a complete data analytics workflow. The project focuses on cleaning and preprocessing sales data, performing exploratory data analysis (EDA), identifying top-performing categories, regions, and customer segments, and analyzing sales and profit trends over time. An interactive Streamlit dashboard is developed to present insights in a user-friendly and storytelling-based format, enabling users to make informed business decisions.
 ## Target Users:
